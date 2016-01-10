@@ -1,16 +1,16 @@
-# PDM8 Course Repository
+# PDM9 Course Repository
 
-Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC November 1st 2015 - January 20th 2016.
-
-**Instructor:** 
-_[Andy Acs] (https://www.linkedin.com/in/andyacs)_<br>
-**Office Hours:** 8:30pm - 9:30pm (class nights)<br>
-**Method of Communication:** Slack (preferred) or email (andyacs@gmail.com)
+Course materials for [General Assembly's Product Managment course](https://generalassemb.ly/education/product-management/washington-dc) in Washington, DC January 11th - March 23rd 2016.
 
 **Instructor:** 
-_[Sherika Wynter] (https://www.linkedin.com/profile/view?id=AAkAAAB_OigBbb9OwaNtkEKjbOuFB1dRX4nA7OU&authType=NAME_SEARCH&authToken=FTp0&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A8337960%2CauthType%3ANAME_SEARCH%2Cidx%3A1-1-1%2CtarId%3A1446415985253%2Ctas%3Asherika%20wynter)_ <br>
-**Office Hours:** 5:30pm - 6:30pm (class nights)<br>
-**Method of Communication:** Slack (preferred) or email (sherika.wynter@gmail.com)
+_[Ben Schein] (https://www.linkedin.com/in/benschein)_<br>
+**Office Hours:** Mondays: 5:30pm - 6:30pm and 8:30pm - 9:30pm <br>
+**Method of Communication:** Slack (preferred) or email (benschein@gmail.com)
+
+**Instructor:** 
+_[Faheem Khemani] (https://www.linkedin.com/in/faheemkhemani)_ <br>
+**Office Hours:** Wednesdays: 5:30pm - 6:30pm and 8:30pm - 9:30pm<br>
+**Method of Communication:** Slack (preferred) or email (faheem.khemani@gmail.com)
 
 ### Welcome to Product Management 10-Week Course
 This course is designed to take the student through the full life cycle of product development and management. Product Management (PM) is a multi-disciplinary role that requires business skills (marketing, finance, business model etc.), technical understanding (the level of technical aptitude varies based on industry, sector, and role for the PM), deep knowledge of the user/customer (this concept is more holistic nature and references knowledge from UX/UI, persona development, user interviews, etc.).
