@@ -22,8 +22,8 @@ This Product Management course will provide the skills:
 
 
 ###General Information
-* [Getting Started Info](https://github.com/andyacs/PDM8/wiki/Getting-Started-with-PDM)
-* [Class Schedule](https://github.com/andyacs/PDM8/wiki/Class-Schedule)
+* [Getting Started Info](https://github.com/andyacs/PDM9/wiki/Getting-Started-with-PDM)
+* [Class Schedule](https://github.com/benschein/PDM9/wiki/Class-Schedule)
 
 <!--
 * [Product Managers Toolkit](https://github.com/idrmiller/PDM7/wiki/03.-PM-Tool-Kit)
@@ -32,22 +32,7 @@ This Product Management course will provide the skills:
 
 ###Class Content Pages
 
-* [Class 1: Intro to PM](https://github.com/andyacs/PDM8/wiki/Class-1:-Intro-to-Product-Management)
-* [Class 2: Product Development Cycle](https://github.com/andyacs/PDM8/wiki/Class-2:---Product-Development-Cycle)
-* [Class 3: Customer Development](https://github.com/andyacs/PDM8/wiki/Class-3:-Customer-Development)
-* [Class 4: Testing and Validating Ideas](https://github.com/andyacs/PDM8/wiki/Class-4:-Testing-and-Validating-Your-Idea)
-* [Class 5: Business Model Design](https://github.com/andyacs/PDM8/wiki/Class-5:-Business-Model-Design)
-* [Class 6: Market Research](https://github.com/andyacs/PDM8/wiki/Class-6:-Market-Research)
-* [Class 7: Personas and Empathy Maps](https://github.com/andyacs/PDM8/wiki/Class-7:-Personas-and-Empathy-Maps)
-* [Class 8: Features and User Stories](https://github.com/andyacs/PDM8/wiki/Class-8:-Features-and-User-Stories)
-* [Class 9: Metrics and KPIs](https://github.com/andyacs/PDM8/wiki/Class-9:-Metrics-and-KPIs)
-* [Class 10: Wireframes and Storyboards](https://github.com/andyacs/PDM8/wiki/Class-10:-Wireframes-and-Storyboards)
-* [Class 11: Pricing and Financial Modeling](https://github.com/andyacs/PDM8/wiki/Class-11:-Pricing-and-Financial-Modeling)
-* [Class 12: Product Features and Project Management](https://github.com/andyacs/PDM8/wiki/Class-12:-Product-Features-and-Roadmaps)
-* [Class 13: Technology for Product Managers](https://github.com/andyacs/PDM8/wiki/Class-13--Technology-for-PMs)
-* [Class 14: Product Roadmaps](https://github.com/andyacs/PDM8/wiki/Class-14:-Product-Roadmaps)
-* [Class 15: Product Marketing and Go To Market Strategy](https://github.com/andyacs/PDM8/wiki/Class-15:-Product-Marketing-GTM-Strategy)
-
+* [Class 1: Intro to PM](https://github.com/benschein/PDM9/wiki/Class-1:-Intro-to-Product-Management)
 
 | |Quotes by Industry Influencers  |
 ---|---
