@@ -22,7 +22,7 @@ This Product Management course will provide the skills:
 
 
 ###General Information
-* [Getting Started Info](https://github.com/andyacs/PDM9/wiki/Getting-Started-with-PDM)
+* [Getting Started Info](https://github.com/benschein/PDM9/wiki/Getting-Started-with-PDM)
 * [Class Schedule](https://github.com/benschein/PDM9/wiki/Class-Schedule)
 
 <!--
